@@ -45,7 +45,7 @@ public class Main {
         System.out.println("El long es "+ longNumber);
        
         //Cadena de caracteres
-        String cadena = "Andres ";
+        String cadena = "Juan Pablo ";
         System.out.println("the range of String is 12+4+20=36 bytes");
         System.out.println("El String es "+ cadena);
        
