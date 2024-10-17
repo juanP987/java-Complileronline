@@ -1,1 +1,40 @@
-https://www.programiz.com/online-compiler/55xrQ24MbVL4y
+class HelloWorld {
+    public static void main(String[] args) {
+        // Enteros
+        byte enteroMuyPequeno; // Declaracion de variable
+        System.out.println("El rango de un byte es -128 a 127");
+
+        short enteroPequenno; // Declaracion de variable
+        System.out.println("El rango de un short es -32,768 a 32,767");
+
+        int entera; // Declaracion de variable
+        System.out.println("El rango de un int es -2,147,483,648 a 2,147,483,647");
+
+        long enteroGrande; // Declaracion de variable
+        System.out.println("El rango de un long es -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807");
+
+        // Decimal
+        float decimal; // Declaracion de variable
+        System.out.println("El rango de un float es 1.4e-045 a 3.4e+038");
+
+        double decimal12; // Declaracion de variable
+        System.out.println("El rango de un double es 4.9e-324 a 1.8e+308");
+
+        // Boolean
+        boolean bool; // Declaracion de variable
+        System.out.println("El rango de un booleano es verdadero y falso");
+
+        // Caracteres
+        String cadena; // Correccion de tipo
+        System.out.println("Las cadenas pueden contener caracteres");
+
+        // Caracter
+        char caracter; // Declaracion de variable
+        System.out.println("El rango de un char es 0 a 65,535");
+
+        // Objeto
+        Object objeto; // Declaracion de variable
+    }
+}
+
+
